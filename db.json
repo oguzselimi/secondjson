@@ -1,0 +1,34 @@
+{
+  "seviyeler": [
+   { "id":1, "levelid": "a", "seviye": "A1", "title": "Abir" },
+   { "id":2, "levelid": "b", "seviye": "A2", "title": "Aiki" },
+   { "id":3, "levelid": "c", "seviye": "B1", "title": "Auc" },
+   { "id":4, "levelid": "d", "seviye": "B2", "title": "Adort" },
+ 
+  
+    ],
+  
+   "veriler" : [
+    { "id": 1, "level": "a1", "coverName" : "A1", "headline": "El Parque",  
+     "text": "Me llamo Pedro y hoy quiero hablar del parque "},
+      { "id": 1, "level": "a1", "coverName" : "A1", "headline": "El Mar",  
+     "text": "Me llamo Pedro y hoy quiero hablar del parque "},
+      { "id": 2, "level": "a2", "coverName" : "A2", "headline": "La escuela",  
+     "text": "Me llamo Pedro y hoy quiero hablar del parque "},
+      { "id": 2, "level": "a2", "coverName" : "A2", "headline": "El Hospital",  
+     "text": "Me llamo Pedro y hoy quiero hablar del parque "},
+        { "id":3, "level": "b1", "coverName" : "B1", "headline": "La costa",  
+     "text": "Me llamo Pedro y hoy quiero hablar del parque "},
+      { "id": 3, "level": "b1", "coverName" : "B1", "headline": "El Puerto",  
+     "text": "Me llamo Pedro y hoy quiero hablar del parque "},
+        { "id":4, "level": "b2", "coverName" : "B2", "headline": "El centro",  
+     "text": "Me llamo Pedro y hoy quiero hablar del parque "},
+      { "id": 4, "level": "b2", "coverName" : "B2", "headline": "El Bosque",  
+     "text": "Me llamo Pedro y hoy quiero hablar del parque "}
+     ]
+        
+}
+        
+       
+        
+    
