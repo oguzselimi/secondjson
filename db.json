@@ -13,7 +13,7 @@
      "text": "Me llamo Pedro y hoy quiero hablar del parque "},
       { "id": 2, "level": "a1", "coverName" : "A1", "headline": "El Mar",  
      "text": "Me llamo Pedro y hoy quiero hablar del parque "},
-      { "id": 3, "level": "a2", "coverName" : "A2", "headline": "La escuela",  
+      { "id": 3, "level": "a1", "coverName" : "A2", "headline": "La escuela",  
      "text": "Me llamo Pedro y hoy quiero hablar del parque "},
       { "id": 4, "level": "a2", "coverName" : "A2", "headline": "El Hospital",  
      "text": "Me llamo Pedro y hoy quiero hablar del parque "},
