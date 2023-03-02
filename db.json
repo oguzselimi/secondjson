@@ -1,9 +1,9 @@
 {
   "seviyeler": [
-   { "id":1, "levelid": "a", "seviye": "A1", "title": "Abir" },
-   { "id":2, "levelid": "b", "seviye": "A2", "title": "Aiki" },
-   { "id":3, "levelid": "c", "seviye": "B1", "title": "Auc" },
-   { "id":4, "levelid": "d", "seviye": "B2", "title": "Adort" }
+   { "id":1, "levelid": "a1", "seviye": "A1", "title": "Abir" },
+   { "id":2, "levelid": "b1", "seviye": "A2", "title": "Aiki" },
+   { "id":3, "levelid": "a2", "seviye": "B1", "title": "Auc" },
+   { "id":4, "levelid": "b2", "seviye": "B2", "title": "Adort" }
  
   
     ],
