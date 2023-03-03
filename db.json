@@ -18,13 +18,13 @@
       { "id": 4, "level": "a2", "coverName" : "El Hospital", "headline": "El Hospital",  
      "text": "Me llamo Pedro y hoy quiero hablar del parque "},
         { "id":5, "level": "b1", "coverName" : "La Costa", "headline": "La costa",  
-     "text": "Me llamo Pedro y hoy quiero hablar del parque "},
+     "text": "Yo vivo muy cerca de la costa. Cada noche salimos para dar un paso en la costa"},
       { "id": 6, "level": "b1", "coverName" : "El Puerto", "headline": "El Puerto",  
-     "text": "Me llamo Pedro y hoy quiero hablar del parque "},
+     "text": "Los barcos de transporte publico trabajan en el Puerto. Si tu quieres cruzar el mar, entonces tienes que ir al Puerto"},
         { "id":7, "level": "b2", "coverName" : "El Centro", "headline": "El centro",  
-     "text": "Me llamo Pedro y hoy quiero hablar del parque "},
+     "text": "Hay muchos bares y restaurantes en el centro de la ciudad. Es una zona que me gusta mucho. "},
       { "id": 8, "level": "b2", "coverName" : "El Bosque", "headline": "El Bosque",  
-     "text": "Me llamo Pedro y hoy quiero hablar del parque "}
+     "text": "Tenemos el bosque un poco fuera de la ciudad. Los fines de semanas vamos al bosque para tener un dia relajante "}
      ]
         
 }
