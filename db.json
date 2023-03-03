@@ -9,11 +9,11 @@
     ],
   
    "veriler" : [
-    { "id": 1, "level": "a1", "coverName" : "A1", "headline": "El Parque",  
+    { "id": 1, "level": "a1", "coverName" : "El Parque", "headline": "El Parque",  
+     "text": "Me llamo Pedro y hoy quiero hablar del parque. Hay un parque cerca de nuestra casa en mi barrio. "},
+      { "id": 2, "level": "a1", "coverName" : "El Mar", "headline": "El Mar",  
      "text": "Me llamo Pedro y hoy quiero hablar del parque "},
-      { "id": 2, "level": "a1", "coverName" : "A1", "headline": "El Mar",  
-     "text": "Me llamo Pedro y hoy quiero hablar del parque "},
-      { "id": 3, "level": "a1", "coverName" : "A2", "headline": "La escuela",  
+      { "id": 3, "level": "a2", "coverName" : "La escuela", "headline": "La escuela",  
      "text": "Me llamo Pedro y hoy quiero hablar del parque "},
       { "id": 4, "level": "a2", "coverName" : "A2", "headline": "El Hospital",  
      "text": "Me llamo Pedro y hoy quiero hablar del parque "},
