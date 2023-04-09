@@ -28,9 +28,9 @@
      ],
   "quizdata" : [
     {   it:1, 
-        question: "What's the biggest planet in our solar system?",
-        options: ["Jupiter","Saturn","Neptune","Mercury"],
-        correct_option: "Jupiter"
+        "question": "What's the biggest planet in our solar system?",
+        "options": ["Jupiter","Saturn","Neptune","Mercury"],
+        "correct_option": "Jupiter"
     } ,
 
     {   it:2,
